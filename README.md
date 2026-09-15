@@ -11,6 +11,9 @@
 
 **Cloud & DevOps Engineer** with a background in Computer and Systems Engineering. Focused on architecting secure, event-driven serverless solutions and scalable cloud infrastructure on AWS. Passionate about system automation, building cost-optimized backends, and bridging hardware/system fundamentals with modern cloud architectures.
 
+## 🧠 About Me
+
+Senior **Computer and Control Systems Engineering student** at Kafr El-Sheikh University, specializing in AWS Cloud Architecture, Cloud Security, and Serverless Infrastructure. Leveraging a solid engineering foundation in Software Testing and Quality Assurance, I apply a security-first, shift-left mindset to build resilient, highly available, and well-tested systems. My work focuses on architecting scalable, event-driven backends using AWS Lambda, DynamoDB, API Gateway, and S3, with a deep emphasis on least-privilege IAM policies, infrastructure hardening, and cost optimization. Passionate about bridging core computer systems engineering principles with modern, enterprise-ready cloud platforms.
 
 
 ## 🎓 Education
