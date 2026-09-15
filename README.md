@@ -1,7 +1,26 @@
-## Hi there, I'm Mubasher Jam 👋
+## Hi there,👋
 
-**Fullstack Software Engineer specializing in ASP.NET Core development, C#, Entity Framework Core, and SQL Server.** I build and ship production-grade web applications, REST APIs, and fullstack .NET solutions.
+<div align="center">
+  <h1>I'm Ziad Wae'l Ahmed</h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C22B2&center=true&vCenter=true&width=600&lines=ASP.NET+Core+Developer;Fullstack+.NET+Engineer;C%23+%7C+EF+Core+%7C+SQL+Server "Mubasher Jam - ASP.NET Core Fullstack Developer")](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud++Security+Enthusiast;AWS+Certified+Cloud+Practitioner;Computer+and+Control+Systems+Engineer;Senior+Engineering+Student+at+KFS+Univ;&font=Fira+Code&center=true&width=600&height=50&color=00FF00&vCenter=true&size=18&speed=100&pause=2000">
+</div>
+
+
+**Cloud & DevOps Engineer** with a background in Computer and Systems Engineering. Focused on architecting secure, event-driven serverless solutions and scalable cloud infrastructure on AWS. Passionate about system automation, building cost-optimized backends, and bridging hardware/system fundamentals with modern cloud architectures.
+
 
 ---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:ziadwaelahmed68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/ziad-wae-l-ahmed-05a693323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
