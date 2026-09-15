@@ -12,7 +12,6 @@
 **Cloud & DevOps Engineer** with a background in Computer and Systems Engineering. Focused on architecting secure, event-driven serverless solutions and scalable cloud infrastructure on AWS. Passionate about system automation, building cost-optimized backends, and bridging hardware/system fundamentals with modern cloud architectures.
 
 
----
 
 ## 🎓 Education
 
