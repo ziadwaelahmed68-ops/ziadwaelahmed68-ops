@@ -14,6 +14,17 @@
 
 ---
 
+## 🎓 Education
+
+<tr>
+<td>
+
+**Bachelor's Degree in Computer and Control Systems**
+📍 Faculty of Engineering, Kafr El-Sheikh University
+
+</td>
+</tr>
+
 ## 📫 Connect with Me
 
 <div align="center">
